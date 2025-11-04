@@ -7,4 +7,6 @@ int main(){
     soma = n1+n2;
 
     printf("A soma dos dois numeros eh = %d", soma);
+
+    printf("Deu certo");
 }
